@@ -144,6 +144,10 @@ color: rgb(176, 42, 42)}
            margin-top: 10px;
            }
 
+.cs-right h1{color: red;}
+
+.cs-left h3{color: red;}
+
 .cs-right img{width: 100px;}
 
 .holiday{display: flex;
